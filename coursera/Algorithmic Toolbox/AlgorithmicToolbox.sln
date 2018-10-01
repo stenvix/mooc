@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test.Week-1", "Test.Week-1\Test.Week-1.csproj", "{BDEC2191-680B-4C55-88C9-94E8D82F3574}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week-1", "Week-1\Week-1.csproj", "{089EB425-965B-4F3F-BE75-C1E18F836399}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1. Solutions", "1. Solutions", "{243A517F-66F1-40C7-BEC3-DB0DDECA0039}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2. Tests", "2. Tests", "{2E4AFA30-1E20-4878-87DD-9EE6BA51882F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDEC2191-680B-4C55-88C9-94E8D82F3574}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDEC2191-680B-4C55-88C9-94E8D82F3574}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDEC2191-680B-4C55-88C9-94E8D82F3574}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDEC2191-680B-4C55-88C9-94E8D82F3574}.Release|Any CPU.Build.0 = Release|Any CPU
+		{089EB425-965B-4F3F-BE75-C1E18F836399}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{089EB425-965B-4F3F-BE75-C1E18F836399}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{089EB425-965B-4F3F-BE75-C1E18F836399}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{089EB425-965B-4F3F-BE75-C1E18F836399}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{089EB425-965B-4F3F-BE75-C1E18F836399} = {243A517F-66F1-40C7-BEC3-DB0DDECA0039}
+		{BDEC2191-680B-4C55-88C9-94E8D82F3574} = {2E4AFA30-1E20-4878-87DD-9EE6BA51882F}
+	EndGlobalSection
+EndGlobal
